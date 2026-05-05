@@ -2,7 +2,7 @@
 
 ## Screenshot and Diagram Placeholders
 
-This directory contains annotated screenshots and diagrams from the lab research environment.
+This directory is reserved for future lab documentation. No images are currently included to maintain a clean, text-focused research presentation.
 
 ---
 
